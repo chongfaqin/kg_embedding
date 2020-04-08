@@ -1,0 +1,7 @@
+6
+logo	0
+product	1
+subclass	2
+toclass	3
+label	4
+priceLevel	5
