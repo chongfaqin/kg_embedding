@@ -4,4 +4,4 @@
 
 2、gennerator training data
 
-3、use openkg and trian
+3、use openke and trian
